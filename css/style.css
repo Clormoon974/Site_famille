@@ -1,0 +1,18 @@
+@font-face {
+    src: url('zh-cn-webfont.woff2') format('woff2'),
+        url('zh-cn-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: white !important;
+}
+
+.nav_color{
+    background-color: black !important;
+}
